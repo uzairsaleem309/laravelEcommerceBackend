@@ -1,0 +1,7 @@
+[20-Nov-2019 03:55:20 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 12759240 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Cache.php on line 86
+[20-Nov-2019 04:06:59 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 12759240 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Cache.php on line 86
+[20-Nov-2019 04:08:31 UTC] PHP Fatal error:  Out of memory (allocated 932192256) (tried to allocate 16777224 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/RuleSet.php on line 65
+[20-Nov-2019 04:09:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 12759240 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Cache.php on line 86
+[20-Nov-2019 04:10:43 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 12759240 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Cache.php on line 86
+[21-Nov-2019 15:13:11 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 33554440 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/RuleSet.php on line 65
+[22-Nov-2019 16:45:55 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 37748736 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/RuleSet.php on line 73
